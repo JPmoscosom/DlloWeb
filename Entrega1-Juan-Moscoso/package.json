@@ -1,0 +1,15 @@
+{
+  "name": "entrega1-juan-moscoso",
+  "version": "1.0.0",
+  "description": "Entrega 1 Desarrollo Web ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//:JPmoscosom/DlloWeb/tree/Practica1-ConceptosJS"
+  },
+  "author": "Juan Pablo Moscoso Mesa",
+  "license": "ISC"
+}
